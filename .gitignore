@@ -1,0 +1,6 @@
+alfred
+alfred.exe
+/config.yml
+config/repos-*.yml
+.alfred/*.yml
+!.alfred/*.sample.yml
